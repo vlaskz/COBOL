@@ -1,0 +1,12 @@
+           IDENTIFICATION DIVISION.
+           PROGRAM-ID. SENTENCES.
+           ENVIRONMENT DIVISION.
+           DATA DIVISION.
+           PROCEDURE DIVISION.
+
+           PROGRAM-BEGIN.
+               DISPLAY "This program contains four(4) DIVISIONS,".
+               DISPLAY "three paragraphs,".
+               DISPLAY "and four SENTENCES".
+           PROGRAM-DONE.
+               STOP RUN.

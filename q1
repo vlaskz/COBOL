@@ -1,0 +1,9 @@
+           IDENTIFICATION DIVISION.
+           PROGRAM-ID. Q1.
+           ENVIRONMENT DIVISION.
+           DATA DIVISION.
+           PROCEDURE DIVISION.
+           PROGRAM-BEGIN.
+               DISPLAY "Bye bye HASKELL".
+           PROGRAM-DONE.
+               STOP RUN.

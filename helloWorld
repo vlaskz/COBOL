@@ -1,0 +1,9 @@
+           IDENTIFICATION DIVISION.
+           PROGRAM-ID. HELLO.
+           ENVIRONMENT DIVISION.
+           DATA DIVISION.
+           PROCEDURE DIVISION.
+           PROGRAM-BEGIN.
+               DISPLAY "hello ao vivo pra galera do twitch".
+           PROGRAM-DONE.
+               STOP RUN.
